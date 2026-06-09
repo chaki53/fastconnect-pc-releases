@@ -16,7 +16,7 @@
 
 [📥 Download latest version](https://github.com/chaki53/fastconnect-pc-releases/releases/latest) ·
 [📰 Changelog](https://github.com/chaki53/fastconnect-pc-releases/releases) ·
-[💬 Support](https://t.me/fastconnect_support_bot)
+[💬 Support](https://t.me/VpnFast_group)
 
 </div>
 
@@ -75,6 +75,6 @@ Since version 2.0 the tunnel reconnects automatically after waking up. If you ar
 
 <div align="center">
 
-**FastConnect** · [Android & Android TV](https://github.com/chaki53/fastconnect-releases) · [Telegram support](https://t.me/fastconnect_support_bot) · [Telegram channel](https://t.me/fastconnect_app)
+**FastConnect** · [Android & Android TV](https://github.com/chaki53/fastconnect-releases) · [Telegram support](https://t.me/VpnFast_group) · [Telegram channel](https://t.me/vpnfast_news) · [Telegram bot](https://t.me/vipnfast_bot?start=github_pc)
 
 </div>
