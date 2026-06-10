@@ -56,10 +56,8 @@
 All releases with detailed descriptions — on the [Releases](https://github.com/chaki53/fastconnect-pc-releases/releases) page.
 
 Recent major updates:
+- **2.0.0** — 🌒 Midnight Luxe: a completely new dark UI, everything in one window, auto-update, auto-reconnect after sleep
 - **1.6.0** — Ad & tracker blocking
-- **1.5.0** — Sign-in, registration and trial right in the app
-
-> 🌒 Coming soon — **2.0 Midnight Luxe**: a completely new dark UI, everything in one window, auto-update and auto-reconnect after sleep.
 
 ## ❓ FAQ
 
